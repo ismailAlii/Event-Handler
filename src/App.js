@@ -15,7 +15,7 @@ import NewsletterPage, {
   action as newsletterAction,
 } from './pages/NewsletterPage'
 
-// test comment
+// test commentt
 
 const router = createBrowserRouter([
   {
